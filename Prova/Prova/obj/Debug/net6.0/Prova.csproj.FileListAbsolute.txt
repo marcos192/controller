@@ -1,0 +1,8 @@
+C:\Users\marco\OneDrive\Documentos\Prova15\Prova\Prova\obj\Debug\net6.0\Prova.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Prova15\Prova\Prova\obj\Debug\net6.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documentos\Prova15\Prova\Prova\obj\Debug\net6.0\Prova.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documentos\Prova15\Prova\Prova\obj\Debug\net6.0\Prova.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documentos\Prova15\Prova\Prova\obj\Debug\net6.0\Prova.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Prova15\Prova\Prova\obj\Debug\net6.0\Prova.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\OneDrive\Documentos\Prova15\Prova\Prova\obj\Debug\net6.0\Prova.RazorAssemblyInfo.cache
+C:\Users\marco\OneDrive\Documentos\Prova15\Prova\Prova\obj\Debug\net6.0\Prova.RazorAssemblyInfo.cs
